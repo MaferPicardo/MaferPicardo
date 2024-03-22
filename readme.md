@@ -7,3 +7,8 @@ Soy Maria Fernanda, tengo 25 años, soy administradora bancaria titulada con 5 a
 ## Contact me
 
 Hacer el cierre de la presentacion, invitando a contactar...
+
+## Skills
+
+ - Coaching
+ - Trabajo en grupo
