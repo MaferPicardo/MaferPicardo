@@ -12,3 +12,10 @@ Hacer el cierre de la presentacion, invitando a contactar...
 
  - Coaching
  - Trabajo en grupo
+
+## Hobbies
+
+- Dancing
+- Nadar
+- Cantar
+- Escuchar musica
