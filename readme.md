@@ -13,7 +13,11 @@ Hacer el cierre de la presentacion, invitando a contactar...
 - HTML
 - CSS
 - JS
+- 
+## Skills
 
+- Coaching
+- Trabajo en grupo
 ## Hobbies
 
 - Dancing
@@ -21,7 +25,9 @@ Hacer el cierre de la presentacion, invitando a contactar...
 - Cantar
 - Escuchar musica
 
-## Skills
+## Languages
 
-- Coaching
-- Trabajo en grupo
+- English
+- Spanish
+- Korean
+- Portuguese
